@@ -1,0 +1,2 @@
+BE0000|Gaming laptop|ASUS|TUF Gaming A16 Advantage Edition|979|20|1|AA0000|AB0000|1x16GB SO-DIMM DDR5 4800MHz|AH0000, AH0001,|Windows 11 Home|1920x1200 FHD+ 165Hz|90|4|355|252|22.1|16|2200|0|1|../img/no_image.png
+BE0001|dkaijkoda|fsdf|afsdf|24|5|1|df1|1|1|1,|1|1|1|1|1|1|1|1|1|1|1|../img/no_image.png

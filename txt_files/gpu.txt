@@ -1,0 +1,5 @@
+AB0004|A mid-range graphics card launched in 2022.|Intel|Arc A380|149|30|1|2|2.05|GDDR6|6|96|HDMI 2.1,|75|8|Air|222|114|42|986
+AB0002|OC Edition with two powerful Axial-tech fans and 2-slot design for broad compatibility.|ASUS|Geforce RTX 3050|319|40|1|1.5|1.852|GDDR6|8|256|HDMI 2.1,DisplayPort 1.4a,|90|8|Air|200|123|38|1855
+AB0000|A mobile graphics chip by AMD, launched in 2023. Built on the 6nm process, and bsed on the Navi 33 graphics processor. The chip supports Directx 12 Ultimate.|AMD|Radeon RX 7600S|399|13|0|1.5|2.2|GDDR6|8|128|HDMI,VGA,|75|12|Air|200|100|35|1277
+AB0001|A high-end graphics card by NVIDIA, launched in 2020.|NVIDIA|Geforce RTX 3070|499|26|1|1.5|1.725|GDDR6|8|256|HDMI 2.1,DisplayPort 1.4a,|220|12|Air|242|112|35|1930
+AB0003|An enthusiast-class graphics card, launched in 2022.|NVIDIA|Geforce RTX 4080|1199|12|1|2.2|2.5|GDDR6X|16|256|HDMI 2.1,|320|16|Air|310|140|61|2259

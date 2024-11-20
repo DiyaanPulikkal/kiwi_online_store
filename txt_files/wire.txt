@@ -1,0 +1,1 @@
+AJ0000|type c|Wire1|asd|345|2|1|6|C|../img/no_image.png
